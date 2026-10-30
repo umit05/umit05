@@ -1,6 +1,7 @@
 # Hi, I'm Ümit 👋
 
 **SAP Consultant (SD, MM, EWM) | IT Business Solutions & Automation Specialist**
+
 📍 İzmir, Türkiye
 
 Industrial Engineer with 4 years of corporate experience in the SAP S/4HANA ecosystem and business process architecture.
@@ -36,6 +37,7 @@ I turn manual operations into automated, integrated systems using ERP integratio
 # Merhaba, ben Ümit 👋
 
 **SAP Danışmanı (SD, MM, EWM) | IT İş Çözümleri & Sistem Otomasyon Uzmanı**
+
 📍 İzmir, Türkiye
 
 SAP S/4HANA ekosisteminde ve süreç mimarisinde 4 yıllık kurumsal deneyime sahip bir Endüstri Mühendisiyim.
